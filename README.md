@@ -7,7 +7,7 @@ This toolkit provides an interface for real-time audio transcription using a mic
 Ensure that Python 3.8+ is installed on your machine. The application also requires the following Python libraries: tkinter, pyaudio, asyncio, websockets, json, openai, pymysql, and bcrypt. Install these using pip:
 
 ```bash
-pip install tkinter pyaudio asyncio websockets json openai pymysql bcrypt
+pip install requirements.txt
 ```
 
 ## Usage
