@@ -22,7 +22,9 @@ Run the GUI.py script to start the application. Once running, you can log in or 
 
 - **Database.py:** This script handles interaction with the database. It includes functionality for logging in, registering a new account, and tracking the total usage time.
 
-## Security Notice
+## Video Demo
 
-Please do not hardcode your database credentials or API keys into your scripts. Instead, use environment variables or a secure secret manager to store these.
+
+
+https://github.com/DeanNunis1/TalkTelligent/assets/61598839/1d588eb1-dcf4-4a1f-8d9c-ee6fad79f3c8
 
