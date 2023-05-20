@@ -25,3 +25,4 @@ Run the GUI.py script to start the application. Once running, you can log in or 
 \## Security Notice
 
 Please do not hardcode your database credentials or API keys into your scripts. Instead, use environment variables or a secure secret manager to store these.
+
