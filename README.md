@@ -35,11 +35,11 @@ If you encounter any issues, please check the following:
 
 ## Contributing
 
-We welcome contributions! Please feel free to submit a pull request.
+All contributions are welcome! Please feel free to submit a pull request.
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the terms of the MIT license. See the Lisence.txt file for details.
 
 Enjoy asking questions!
 
