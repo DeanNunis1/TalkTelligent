@@ -1,6 +1,6 @@
 # TalkTelligent
 
-This toolkit provides an interface for real-time audio transcription using a microphone. It includes functionality for detecting questions within the transcriptions and provides answers to them using OpenAI's GPT-4.
+This program provides an interface for real-time audio transcription using a microphone. It includes functionality for detecting questions within the transcriptions and provides answers to them using OpenAI's GPT-4.
 
 ## Installation
 
